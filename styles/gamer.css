@@ -1,0 +1,11 @@
+/* nav related styles */
+nav{
+    display:flex;
+    align-items:center;
+}
+.logo{
+    display:flex;
+}
+#logo-mod{
+    color:#FF42A5;
+}
